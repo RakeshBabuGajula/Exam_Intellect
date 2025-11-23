@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+openai
+opencv-python
+speechrecognition
+requests
+flask
+numpy
+pandas
+matplotlib
+seaborn
+litellm
+python-dotenv
+plotly
