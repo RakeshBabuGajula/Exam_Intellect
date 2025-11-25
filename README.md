@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Demo
 
-Check out our [demo video walkthrough](https://youtu.be/UWnSzhhqeXg?si=ovo7Tik_A5g6_sKu) to see ExamIntellect in action!
+Check out our [demo video walkthrough](https://youtu.be/UWnSzhhqeXg?si=JLAp-HLUjR_AMbMU) to see ExamIntellect in action!
 
 ## Contact
 
