@@ -1,6 +1,6 @@
 # ExamIntellect: AI-Powered Online Exam Proctoring System
 
-<img width="1280" height="720" alt="AI_Exam_Dashboard_9e48a898-4f7a-4595-aff2-eab14630187b" src="https://github.com/user-attachments/assets/4f433955-ee85-424b-a1d5-54d497a0f443" />
+<img width="1536" height="1024" alt="ExamIntellect image" src="https://github.com/user-attachments/assets/adf82e99-7d79-45c2-9747-8102b2603088" />
 
 
 ExamIntellect is a comprehensive Python-based multi-agent AI system designed for online exam proctoring and personalized remedial help. It leverages advanced AI technologies to ensure exam integrity while providing tailored educational support.
